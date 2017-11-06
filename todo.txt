@@ -1,1 +1,2 @@
-* falta cálculo de flujo paralelo.
+* falta cálculo de flujo paralelo.  --Terminado.
+* falta mejorar la interfaz gráfica.- 
