@@ -1,5 +1,5 @@
 const evap = require("../lib/Evaporadores")
-var e = new evap();
+var e = new evap(true);
 /*
 2) Se desea concentrar una disolución desde 10% a 45% de sólidos en un evaporador
 de doble efecto. El vapor de calefacción del primer efecto es vapor saturado a
@@ -15,3 +15,5 @@ en el 1° efecto: 1100 kcal/hm2°C y 1600 Kcal/hm2°C, para el 2° efecto.
 Solución (42m^2)
 */
 console.log(e.contracorriente(9000,22,10,45,1,2.5,45,1100,1600));
+
+//{42.15664299826665, a2: 43.70144439858753 }
