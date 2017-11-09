@@ -5,7 +5,7 @@ see [Multiple Effect Evaporator](https://en.wikipedia.org/wiki/Multiple-effect_e
 
 
 ## Forward feed two effect evaporator.
-![Image forward feed](./rc/paralelo.svg?raw=true)
+![Image forward feed](./rc/paralelo.svg)
 
 ## How to Use
 ```javascript
