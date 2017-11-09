@@ -1,2 +1,6 @@
-* falta cálculo de flujo paralelo.  --Terminado.
-* falta mejorar la interfaz gráfica.- 
+*  Cálculo de flujo paralelo.  --Terminado.
+*  Mejorar la interfaz gráfica.- 
+*  Crear interfaz gráfica
+*  Hacer dibujo contracorriente.
+*  Dibujo de evaporador simple.
+*  Crear n múltiples efectos.
