@@ -2,7 +2,7 @@
 see [Multiple Effect Evaporator](https://en.wikipedia.org/wiki/Multiple-effect_evaporator)
 
 ## Backward feed two effect evaporator.
-![Image forward feed](./rc/backwardfeed.svg)
+![Image backward feed](./rc/backwardfeed.svg)
 
 ## Forward feed two effect evaporator.
 ![Image forward feed](./rc/paralelo.svg)
@@ -19,3 +19,4 @@ console.log(e.contracorriente(8500,35,8,45,1,2.5,59.7,1700,1100));
 ```
 
 ## Single effect evaporator
+![Image single effect](./rc/single.svg)
