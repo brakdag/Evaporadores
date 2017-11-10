@@ -2,7 +2,7 @@
 see [Multiple Effect Evaporator](https://en.wikipedia.org/wiki/Multiple-effect_evaporator)
 
 ## Backward feed two effect evaporator.
-
+![Image forward feed](./rc/backwardfeed.svg)
 
 ## Forward feed two effect evaporator.
 ![Image forward feed](./rc/paralelo.svg)
