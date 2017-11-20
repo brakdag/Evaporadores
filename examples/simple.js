@@ -12,6 +12,8 @@ a traves de la superficie de calefación? Si el coeficiente de transmisión
 (U) del evaporador es de 1220 kcal/hm°C ¿Cuál es la superficie necesaria?
 */
 //simple(wf,xi,xf,tf,t1,ts,U)
+
+
 console.log(e.simple(10000,1,1.5,37.8,100,108,1220,1));
 /*
 { a1: 60.280284505473844, a2: 61.45909900200645 }
