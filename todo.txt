@@ -1,6 +1,6 @@
 *  Cálculo de flujo paralelo.  --Terminado.
 *  Mejorar la interfaz gráfica.- 
 *  Crear interfaz gráfica
-*  Hacer dibujo contracorriente.
-*  Dibujo de evaporador simple.
-*  Crear n múltiples efectos.
+*  Hacer dibujo contracorriente. --Terminado
+*  Dibujo de evaporador simple. --Terminado
+*  Crear n múltiples efectos. 
