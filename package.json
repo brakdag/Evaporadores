@@ -2,14 +2,14 @@
   "name": "evaporadores",
   "version": "1.0.0",
   "description": "Cálculo sección evaporadores de múltiple efecto.",
-  "main": "index.js",
+  "main": "./lib/Evaporadores.js",
   "directories": {
-    "doc": "docs",
-    "example": "examples"
+    "doc": "doc",
+    "example": "example"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "makedoc": "jsdoc lib/Evaporadores.js -d doc"
+     },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brakdag/Evaporadores.git"
